@@ -4,123 +4,205 @@ settimeout()
 // settimeout is a js function we pass callback function in its parameter 
 // in{} we pass the code for execution and in timeout we pass time in milliseconds 
 // if we need to run code after certain delay we use it , it does not block another code 
-setTimeout(()=>{
-    console.log('hello')
-},1000)
+// setTimeout(()=>{
+//     console.log('hello')
+// },1000)
 
-
-
-
-/*==================================== Question No 1 =========================================
-
+/*==================================== Question No 2 =========================================
+Map()
 ======================================= Answer =====================================*/
+// const obj = new Map();
+// obj.set('name','Aziz');
+// obj.set('age',30);
+// obj.set('let','variable name');
+// obj.set('()=>{}','function');
+// obj.set('designation','Designer');
+// obj.delete('()=>{}')
+// console.log(obj.size);
+// obj.set('name','Jamal')
+// console.log(obj.has('age'));
+// console.log(obj.values());
+// console.log(obj.keys());
+// console.log(obj,typeof obj);
+// for(let[key,values] of obj){console.log(`${key} : ${values}`)}
+
+// obj.entries()
 
 
-
-
-
-/*==================================== Question No 1 =========================================
-
+/*==================================== Question No 3 =========================================
+object.entries()
 ======================================= Answer =====================================*/
+// let obj = {name : 'Aziz',
+//     age : 30,
+//     let : 'ok',
+//     1992 : 'Birth',
+//     true : 'acha'
+// }
+// console.log(obj);
+// let convert = new Map(Object.entries(obj));
+// console.log(convert,typeof convert)
 
-
-
-
-
-/*==================================== Question No 1 =========================================
-
+/*==================================== Question No 4 =========================================
+split
 ======================================= Answer =====================================*/
+// // it is js method and we convert string to array by using it 
+// let str = 'I am learning js';
+// console.log(str,typeof str);
+// let arr = str.split(' ');
+// console.log(arr,typeof arr);
+// // join() is js method and we convert an array to string by using it 
+// let string = arr.join("  ");
+// console.log(string,typeof string);
 
-
-
-
-
-/*==================================== Question No 1 =========================================
-
+/*==================================== Question No 5 =========================================
+filter
 ======================================= Answer =====================================*/
+// it is array method it returns us all element of an array that fullfill a specific requirement.
+// const arr = [1,2,3,41,5,61,7,8,9,103];
+// let even = arr.filter((item)=>{return item % 2 == 0});
+// console.log(even)
+// let eve = arr.find((item)=>{return item % 2 == 0});
+// console.log(eve)
 
 
 
 
-
-
-/*==================================== Question No 1 =========================================
-
+/*==================================== Question No 6 =========================================
+forEach
 ======================================= Answer =====================================*/
+// forEach is used to render data on console or browser, it is array method
+//  const fruits = ['apple','mango','orange','mango','grapes','banana','mango'];
+//  fruits.forEach((item,index)=>{console.log(item,index)});
+
+// let girls = ['klsoom','sana','saima'];
+// let display = document.getElementById('ul');
+//  girls.forEach((index, item)=>{let li = document.createElement('li');
+//     let liContent = document.createTextNode(`${index} : ${item}`);
+//     li.appendChild(liContent);
+//     display.appendChild(li);
+//     display.style.listStyle = 'none'
+//  })
 
 
 
 
 
-
-
-/*==================================== Question No 1 =========================================
-
+/*==================================== Question No 7 =========================================
+map()
 ======================================= Answer =====================================*/
+// it is array method we can apply a condition to all the elements of an array
+// let num = [2,4,6,8,10];
+// let need = num.map((item,ind)=> {if(ind >=2){
+//     return item * 2
+// }
+// else{return item}});
+// console.log(need)
+
+// let girls = ['klsoom','sania','andleeb','knval','ishrt'];
+// let need = girls.map((item,index)=>{
+//     if(index <=2){return `${item} Khan`}
+//     else{return `${item}`}
+// }
+// )
+// console.log(need)
 
 
 
-
-
-
-/*==================================== Question No 1 =========================================
-
+/*==================================== Question No 8 =========================================
+some()
 ======================================= Answer =====================================*/
+// it checks that whether one element fulfill our requirement, if fulfills it returns true else false
+// let num = [1,2,3,4,51,6];
+// let check = num.some((item)=>{return item /5 == 1});
+// console.log(check)
 
 
-
-
-
-
-
-/*==================================== Question No 1 =========================================
-
+/*==================================== Question No 9 =========================================
+findIndex()
 ======================================= Answer =====================================*/
+// let obj = [
+//     {id : 1,
+//         name : 'jamal'
+//     },
+//     {id : 2,
+//         name : 'Khan'
+//     },
+//     {id : 3,
+//         name : 'Habib'
+//     }
+// ]
+// console.log(obj)
+// let ind = obj.findIndex((inde)=>{return inde.id == 1});
+// console.log(ind)
+// console.log(obj);
+// obj.splice(ind,1);
+// console.log(obj)
 
 
-
-
-
-/*==================================== Question No 1 =========================================
-
+/*==================================== Question No 10 =========================================
+try and catch
 ======================================= Answer =====================================*/
+// try{
+//     ans()
+//     let ans = ()=>{console.log('hello');
+        
+//     }
+    
+// }
+// catch(err){console.log(err)}
+// console.log(5 + 5)
 
+// try{let num = 5;
+// console.log(num.toUpperCase());}
+// catch(err){console.log(err)}
+// console.log('hello')
 
-
-
-
-/*==================================== Question No 1 =========================================
-
+/*==================================== Question No 11 =========================================
+try catch
 ======================================= Answer =====================================*/
+// try{let num = prompt('enter num');
+//     if(num >20)throw('num must be less than 20')
+// }
+// catch(err){console.log(err)}
 
 
 
-
-
-/*==================================== Question No 1 =========================================
-https://themewagon.com/themes/free-bootstrap-4-html5-web-developer-portfolio-website-template-satner/
-======================================= Answer =====================================*//*==================================== Question No 1 =========================================
-
+/*==================================== Question No 12 =========================================
+/\d/,.match()
 ======================================= Answer =====================================*/
+// let str = 'aziz98ullah';
+// let check = /\d/.test(str);
+// console.log(check);
+// let draw = str.match(/[a-z]/g).join('');
+// console.log(draw)
+
+
+// let str = 'abc123def45';
+// let digits = str.match(/\d/g);
+// let condtion = (digits)?(digits.length):(0);
+// console.log(condtion)
+
+// example two 
+// let str = 'hel4lo2';
+// let check = str.match(/\d/g);
+// let ans = check.length;
+// console.log(ans)
+// console.log(check)
+
+// let str = 'abc123def45';
+// let digits = str.match(/\d/g);
+// console.log(digits);
+// let check = (digits)?(digits.length):('not');
+// console.log(check)
 
 
 
-
-
-/*==================================== Question No 1 =========================================
-
+/*==================================== Question No 13 =========================================
+module
 ======================================= Answer =====================================*/
-
-
-
-
-
-/*==================================== Question No 1 =========================================
-
-======================================= Answer =====================================*/
-
-
-
+// import {name,arr} from "./data.js";
+// console.log(name);
+// console.log(arr)
 
 
 /*==================================== Question No 1 =========================================
