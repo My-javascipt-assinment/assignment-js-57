@@ -205,61 +205,137 @@ module
 // console.log(arr)
 
 
-/*==================================== Question No 1 =========================================
 
+/*==================================== Question No 14 =========================================
+optional chaining
+======================================= Answer =====================================*/
+// let user = {
+//   name: "Ali",
+//   address: {
+//     city: "Karachi"
+//   }
+// };
+
+// // ✅ Safe way with optional chaining
+// console.log(user.address?.city);     // Karachi
+// console.log(user.address?.street);   // undefined
+
+// // ❌ Without optional chaining (would give error if address is missing)
+// console.log(user.contact?.phone);    // undefined (no error)
+
+// let teacher = {name : 'Umer',
+//     course : 'Web',
+//     subject  : {subject1 : 'Math'}
+// }
+// let check = teacher.subject?.subject1;
+// let check2 = teacher.subject5?.name;
+// console.log(check);
+// console.log(check2)
+/*==================================== Question No 15 =========================================
+optional chainging
+======================================= Answer =====================================*/
+// const car = {model : 'Honda',
+//     color : {firstColor: 'red',
+//         year: {preparationYear : 2024}
+//     }
+// }
+// console.log(car.color?.year2?.preparationYear);
+// console.log('welcome')
+
+/*==================================== Question No 16 =========================================
+spread operator
 ======================================= Answer =====================================*/
 
+// let array = ['apple','mango'];
+// array = [...array,'banana','grapes']
+// let arr = [...array];
+// console.log(arr)
+// let arr1 = ['apple'];
+// let arr2 = ['mango'];
+// let newArr = [...arr1,...arr2];
+// console.log(newArr)
+
+// let obj1 = {name :'Logrith'};
+// let obj2 = {designation : 'Designer'};
+// let obj = {...obj1,...obj2};
+// console.log(obj);
+// obj1 = {...obj1,'age':20,'city':'pks'}
+// console.log(obj1)
+
+// let num = [2,3,4,55,4];
+// let max = Math.max(...num);
+// console.log(max)
 
 
 
-/*==================================== Question No 1 =========================================
+/*==================================== Question No 17 =========================================
+palindrome
+======================================= Answer =====================================*/
+// let str = prompt('enter word');
+// let rev = '';
+// for(let i = str.length-1; i>=0;i--){rev = rev + str[i]};
+// console.log(rev);
+// if(rev === str){console.log(`${str} is palindrom`);
+// }
 
+// else{console.log(`${str} is not palindrome`)}
+
+
+
+/*==================================== Question No 18 =========================================
+color carosel
+======================================= Answer =====================================*/
+// let div = document.getElementById('div');
+// let color = ['red','green','black','blue','yellow','seagreen'];
+// let index = 0;
+// setInterval(() => {
+//     index++;
+//     div.style.background = color[index];
+//     if(index >= color.length-1){index = 0}
+    
+// }, 1000);
+
+
+
+
+/*==================================== Question No 19 =========================================
+count words
 ======================================= Answer =====================================*/
 
+// function counting(){let getValue = document.getElementById('input').value;
+//     getValue = getValue.toLowerCase();
+//     getValue = getValue.trim();
+//     getValue = getValue.split(' ');
+//     console.log(getValue);
+//     let display = document.getElementById('ul');
+//     let count = 1;
+//     for(let i = 0;i < getValue.length;i++){
+//         if(getValue[i] == getValue[i + 1]){count++}
+//         else{let li = document.createElement('li');
+//             let liContent = document.createTextNode(`${getValue[i]} : ${count}`);
+//             li.appendChild(liContent);
+//             display.appendChild(li);
+//             // count = 1;
+            
+//         }
+//     }
+// }
 
 
 
-
-
-/*==================================== Question No 1 =========================================
-
-======================================= Answer =====================================*/
-
-
-
-
-
-
-
-/*==================================== Question No 1 =========================================
-
-======================================= Answer =====================================*/
-
-
-
-
-
-/*==================================== Question No 1 =========================================
-
-======================================= Answer =====================================*/
-
-
-
-
-
-/*==================================== Question No 1 =========================================
-
-======================================= Answer =====================================*/
-
-
-
-
-
-/*==================================== Question No 1 =========================================
-
-======================================= Answer =====================================*/
-
-
+// let count = 1;
+// let word = '';
+// let display = document.getElementById('ul');
+// for(let i = 0; i < arr.length;i++){
+//     if(arr[i] === arr[i + 1]){count++}
+//     else{let li = document.createElement('li');
+//         let liContent = document.createTextNode(`${arr[i]} : ${count}`);
+//         li.appendChild(liContent);
+//         display.appendChild(li);
+        
+//     }
+    
+// }
 
 /*==================================== Question No 1 =========================================
 
