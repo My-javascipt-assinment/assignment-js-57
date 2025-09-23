@@ -337,724 +337,612 @@ count words
     
 // }
 
-/*==================================== Question No 1 =========================================
-
-======================================= Answer =====================================*/
-
-
-
-
-
-/*==================================== Question No 1 =========================================
-
-======================================= Answer =====================================*/
-
-
-
-
-
-/*==================================== Question No 1 =========================================
-
-======================================= Answer =====================================*/
-
-
-
-
-
-/*==================================== Question No 1 =========================================
-
-======================================= Answer =====================================*/
-
-
-
-
-
-/*==================================== Question No 1 =========================================
-
-======================================= Answer =====================================*/
-
-
-
-
-
-
-/*==================================== Question No 1 =========================================
-
-======================================= Answer =====================================*/
-
-
-
-
-
-
-
-/*==================================== Question No 1 =========================================
-
-======================================= Answer =====================================*/
-
-
-
-
-
-
-/*==================================== Question No 1 =========================================
-
-======================================= Answer =====================================*/
-
-
-
-
-
-
-
-/*==================================== Question No 1 =========================================
-
-======================================= Answer =====================================*/
-
-
-
-
-
-/*==================================== Question No 1 =========================================
-
-======================================= Answer =====================================*/
-
-
-
-
-
-/*==================================== Question No 1 =========================================
-
-======================================= Answer =====================================*/
-
-
-
-
-
-/*==================================== Question No 1 =========================================
-https://themewagon.com/themes/free-bootstrap-4-html5-web-developer-portfolio-website-template-satner/
-======================================= Answer =====================================*//*==================================== Question No 1 =========================================
-
-======================================= Answer =====================================*/
-
-
-
-
-
-/*==================================== Question No 1 =========================================
-
-======================================= Answer =====================================*/
-
-
-
-
-
-/*==================================== Question No 1 =========================================
-
-======================================= Answer =====================================*/
-
-
-
-
-
-/*==================================== Question No 1 =========================================
-
-======================================= Answer =====================================*/
-
-
-
-
-/*==================================== Question No 1 =========================================
-
-======================================= Answer =====================================*/
-
-
-
-
-
-
-/*==================================== Question No 1 =========================================
-
-======================================= Answer =====================================*/
-
-
-
-
-
-
-
-/*==================================== Question No 1 =========================================
-
-======================================= Answer =====================================*/
-
-
-
-
-
-/*==================================== Question No 1 =========================================
-
-======================================= Answer =====================================*/
-
-
-
-
-
-/*==================================== Question No 1 =========================================
-
-======================================= Answer =====================================*/
-
-
-
-
-
-/*==================================== Question No 1 =========================================
-
-======================================= Answer =====================================*/
-
-
-
-/*==================================== Question No 1 =========================================
-
-======================================= Answer =====================================*/
-
-
-
-
-
-/*==================================== Question No 1 =========================================
-
-======================================= Answer =====================================*/
-
-
-
-
-
-/*==================================== Question No 1 =========================================
-
-======================================= Answer =====================================*/
-
-
-
-
-
-/*==================================== Question No 1 =========================================
-
-======================================= Answer =====================================*/
-
-
-
-
-
-/*==================================== Question No 1 =========================================
-
-======================================= Answer =====================================*/
-
-
-
-
-
-
-/*==================================== Question No 1 =========================================
-
-======================================= Answer =====================================*/
-
-
-
-
-
-
-
-/*==================================== Question No 1 =========================================
-
-======================================= Answer =====================================*/
-
-
-
-
-
-
-/*==================================== Question No 1 =========================================
-
-======================================= Answer =====================================*/
-
-
-
-
-
-
-
-/*==================================== Question No 1 =========================================
-
-======================================= Answer =====================================*/
-
-
-
-
-
-/*==================================== Question No 1 =========================================
-
-======================================= Answer =====================================*/
-
-
-
-
-
-/*==================================== Question No 1 =========================================
-
-======================================= Answer =====================================*/
-
-
-
-
-
-/*==================================== Question No 1 =========================================
-https://themewagon.com/themes/free-bootstrap-4-html5-web-developer-portfolio-website-template-satner/
-======================================= Answer =====================================*//*==================================== Question No 1 =========================================
-
-======================================= Answer =====================================*/
-
-
-
-
-
-/*==================================== Question No 1 =========================================
-
-======================================= Answer =====================================*/
-
-
-
-
-
-/*==================================== Question No 1 =========================================
-
-======================================= Answer =====================================*/
-
-
-
-
-
-/*==================================== Question No 1 =========================================
-
-======================================= Answer =====================================*/
-
-
-
-
-
-/*==================================== Question No 1 =========================================
-
-======================================= Answer =====================================*/
-
-
-
-
-
-
-/*==================================== Question No 1 =========================================
-
-======================================= Answer =====================================*/
-
-
-
-
-
-
-
-/*==================================== Question No 1 =========================================
-
-======================================= Answer =====================================*/
-
-
-
-
-
-
-/*==================================== Question No 1 =========================================
-
-======================================= Answer =====================================*/
-
-
-
-
-
-
-
-/*==================================== Question No 1 =========================================
-
-======================================= Answer =====================================*/
-
-
-
-
-
-/*==================================== Question No 1 =========================================
-
-======================================= Answer =====================================*/
-
-
-
-
-
-/*==================================== Question No 1 =========================================
-
-======================================= Answer =====================================*/
-
-
-
-
-
-/*==================================== Question No 1 =========================================
-https://themewagon.com/themes/free-bootstrap-4-html5-web-developer-portfolio-website-template-satner/
-======================================= Answer =====================================*//*==================================== Question No 1 =========================================
-
-======================================= Answer =====================================*/
-
-
-
-
-
-/*==================================== Question No 1 =========================================
-
-======================================= Answer =====================================*/
-
-
-
-
-
-/*==================================== Question No 1 =========================================
-
-======================================= Answer =====================================*/
-
-
-
-
-
-/*==================================== Question No 1 =========================================
-
-======================================= Answer =====================================*/
-
-
-
-
-/*==================================== Question No 1 =========================================
-
-======================================= Answer =====================================*/
-
-
-
-
-
-
-/*==================================== Question No 1 =========================================
-
-======================================= Answer =====================================*/
-
-
-
-
-
-
-
-/*==================================== Question No 1 =========================================
-
-======================================= Answer =====================================*/
-
-
-
-
-
-/*==================================== Question No 1 =========================================
-
-======================================= Answer =====================================*/
-
-
-
-
-
-/*==================================== Question No 1 =========================================
-
-======================================= Answer =====================================*/
-
-
-
-
-
-/*==================================== Question No 1 =========================================
-
-======================================= Answer =====================================*/
-
-
-
-/*==================================== Question No 1 =========================================
-
-======================================= Answer =====================================*/
-
-
-
-
-
-/*==================================== Question No 1 =========================================
-
-======================================= Answer =====================================*/
-
-
-
-
-
-/*==================================== Question No 1 =========================================
-
+/*==================================== Question No 20 =========================================
+shallow and deep copy
 ======================================= Answer =====================================*/
-
-
+// let obj = {name : 'Aziz',
+//     teacher: {teacherName : 'Ahmed',
+//         studentRollNo : {rollNo : 123}
+//     }
+// }
+// console.log(obj)
+// // let newObj = {...obj};
+// let newObj = Object.assign({},obj)
+// newObj.teacher.studentRollNo.rollNo = 4000;
+// console.log(newObj);
+// console.log(obj)
 
+// let obj = {name : 'Aziz',
+//     teacher: {teacherName : 'Ahmed',
+//         studentRollNo : {rollNo : 123}
+//     }
+// }
+// console.log(obj);
+// let deep = JSON.parse(JSON.stringify(obj));
+// console.log(deep);
+// deep.teacher.studentRollNo.rollNo = 2;
+// Json.Parse(Json.stringify(obj));
+// StructureClone(obj)
 
 
-/*==================================== Question No 1 =========================================
-
+/*==================================== Question No 20 =========================================
+hashtagGenerator
 ======================================= Answer =====================================*/
-
-
-
+// function generating(){
+//     let getValue = document.getElementById('result').value;
+//     console.log(getValue);
+//     getValue = getValue.split(' ');
+//     let need = getValue.map((item)=>{return item.charAt(0).toUpperCase() + item.slice(1)});
+//     need = need.join('');
+//     need = `#${need}`
+//     console.log(need)
+//     console.log(getValue)
+// }
 
 
-/*==================================== Question No 1 =========================================
 
+/*==================================== Question No 21 =========================================
+letter couner
 ======================================= Answer =====================================*/
+// function counting(){
+//     let word = document.getElementById('result').value;
+//     let letter = document.getElementById('result2').value;
+//     letter = letter.toLowerCase();
+//     word = word.toLowerCase();
+//     word = word.split('');
+//     console.log(word);
+//     console.log(letter);
+//     let target = word.filter((item)=>{return item === letter});
+//     console.log(target.length)
+    
+// }
 
 
 
 
-
-
-/*==================================== Question No 1 =========================================
-
+/*==================================== Question No 22 =========================================
+ternary operator
 ======================================= Answer =====================================*/
-
-
-
-
-
+// it is short cut of if/else statement
+// let age = 2;
+// let condition = (age <20)?('eligible'):('not eligible')
+// console.log(condition)
 
 
-/*==================================== Question No 1 =========================================
 
+/*==================================== Question No 23 =========================================
+default parameter
 ======================================= Answer =====================================*/
+// we pass argument in function and receive in parameter, we declare one parameter already and now if we 
+// new parameter than it is used and if we dont pass parameter than function uses default parameter
 
+// function calculation(a,b = 50){ return a+b}
+// let ans = calculation(5)
+// console.log(ans)
 
 
 
 
-
-/*==================================== Question No 1 =========================================
-
+/*==================================== Question No 24 =========================================
+restParameter
 ======================================= Answer =====================================*/
-
-
 
+// // take multiple arguments of function by (...rest) parameter and return them in array
+// function name(a,b,...st){console.log(a)
+//     console.log(st)
 
+// }
+// name('aziz','ikram','mubashir','qadir',{userName :'sana',age : 18})
 
 
 
-/*==================================== Question No 1 =========================================
 
+/*==================================== Question No 25 =========================================
+Enhanced object literals
 ======================================= Answer =====================================*/
-
-
-
-
+// let name = 'Aziz';
+// let age = 23;
+// let color = 'white';
+// const obj = {name ,
+//     age ,
+//     color 
+// }
+// console.log(obj)
 
-/*==================================== Question No 1 =========================================
 
+/*==================================== Question No 26 =========================================
+object destructuring
 ======================================= Answer =====================================*/
+// let obj = {name : 'Aziz',
+//     age : 30
+// }
 
+// let {name,age} = obj
+// console.log(name);
+// console.log(age)
 
+// let [name,age,course] = ['Sanwal',18,'web'];
+// console.log(name);
+// console.log(age)
 
 
 
-/*==================================== Question No 1 =========================================
 
+/*==================================== Question No 27 =========================================
+itrators of/in
 ======================================= Answer =====================================*/
+// let fruite = ['apple','mango','orange'];
+// for(let key of fruite){console.log(key)}
+// for(let ind in fruite){console.log(ind)}
 
+// let obj = {model :'Honda',
+//     year : 2023,
+//     color : 'red'
+// }
+// for(let element in obj){console.log(element, element[i])}
 
 
 
-
-/*==================================== Question No 1 =========================================
-https://themewagon.com/themes/free-bootstrap-4-html5-web-developer-portfolio-website-template-satner/
-======================================= Answer =====================================*//*==================================== Question No 1 =========================================
-
+/*==================================== Question No 28 =========================================
+counter leter
 ======================================= Answer =====================================*/
-
+// function counting(){
+//     let result = document.getElementById('result');
+//     let word = document.getElementById('word').value;
+//     word = word.toLowerCase();
+//     let letter = document.getElementById('letter').value;
+//     letter = letter.toLowerCase();
+//     word =word.split('');
+//     console.log(word);
+//     let target = word.filter((item)=>{return item === letter});
+//     console.log(target.length)
+// }
 
 
 
 
-/*==================================== Question No 1 =========================================
-
+/*==================================== Question No 29 =========================================
+ascending order
 ======================================= Answer =====================================*/
-
-
-
+// function ascending(){
+//     let display = document.getElementById('ul');
+//     let number = document.getElementById('input').value;
+//     number = number.split(' ');
+//     number = number.sort((a,b)=> a - b);
+    
+//     console.log(number)
+// }
 
 
-/*==================================== Question No 1 =========================================
 
+/*==================================== Question No 30 =========================================
+factorial
 ======================================= Answer =====================================*/
+// let num = "5";
+// let factorial = 1;
+// for(let i = 1 ; i <= num;i++){factorial = factorial * i}
+// console.log(factorial)
 
 
 
 
-
-/*==================================== Question No 1 =========================================
-
+/*==================================== Question No 31 =========================================
+array equality checking
 ======================================= Answer =====================================*/
+// function checking(){
+//     let result = document.getElementById('result');
+//     let arrayOne = document.getElementById('input1').value;
+//     let arrayTwo = document.getElementById('input2').value;
+//     arrayOne = arrayOne.trim();
+//     arrayTwo = arrayTwo.trim();
+//     arrayOne = arrayOne.split(' ');
+//     arrayTwo = arrayTwo.split(' ');
+    
+//     console.log(arrayOne);
+//     console.log(arrayTwo);
+//     if(arrayOne.length == arrayTwo.length){
+//         for(let i = 0;i< arrayOne.length;i++){console.log(arrayOne[i]);
+//             for(let j = i ; j <= i; j++){console.log(arrayTwo[j])};
+//             if(arrayOne[i] == arrayTwo[i]){result.innerHTML = 'Both array item are equal and same'}
+//             else{result.innerHTML = 'Both array items are not equal and same'}
+//         }
+//     }
+//     else{result.innerHTML = "The length of both array's hava not same"}
+// }
 
 
 
 
-/*==================================== Question No 1 =========================================
-
+/*==================================== Question No 32 =========================================
+location.reload()
 ======================================= Answer =====================================*/
-
+// setInterval(()=>{
+//     location.reload()
+// },1000)
 
 
 
-
-
-/*==================================== Question No 1 =========================================
-
+/*==================================== Question No 33 =========================================
+object.length
 ======================================= Answer =====================================*/
-
+// let obj = {name : 'Aziz',
+//     course : 'Web',
+//     age : 30
+// }
+// console.log(Object.keys(obj).length)
+// for(let key in obj){console.log(`${key} : ${obj[key]}`)}
 
 
 
-
-
-
-/*==================================== Question No 1 =========================================
-
+/*==================================== Question No 34 =========================================
+new Date()
 ======================================= Answer =====================================*/
-
+// let date = new Date();
+// console.log(date.getFullYear());
+// console.log(date.getMonth()+1);
+// console.log(date.getDay())
+// console.log(date.getHours());
+// console.log(date.getMinutes());
+// console.log(date.getSeconds());
+// console.log(date.getMilliseconds());
+// console.log(date.toDateString());
+// console.log(date.toTimeString());
+// console.log(date.toLocaleDateString());
+// console.log(date.toLocaleTimeString());
+// date.setMonth(5-1);
+// console.log(date);
+// date.setDate(2);
+// console.log(date);
+// date.setHours(4);
+// console.log(date);
+// date.setMinutes(3);
+// console.log(date)
 
 
 
 
-/*==================================== Question No 1 =========================================
 
+/*==================================== Question No 35 =========================================
+addMydigits
 ======================================= Answer =====================================*/
-
-
+// function calculating(){let getDigits = document.getElementById('input').value;
+//     document.getElementById('input').value = '';
+//     document.getElementById('input').focus();
+//     let display = document.getElementById('display');
+//     // run for loop 
+//     let result = 0;
+//     for(let i = 0; i < getDigits.length;i++){
+//         // we convert loop output to Number for adding 
+//         let convertedStringToNumber = Number(getDigits[i]);
+//         result = result + convertedStringToNumber;}
+//     display.textContent = result;
+// }
 
 
 
-/*==================================== Question No 1 =========================================
-
+/*==================================== Question No 36 =========================================
+unique array
 ======================================= Answer =====================================*/
-
-
-
+// let arr = ['a','b','b','c','d','d','e'];
+// console.log(arr,typeof arr);
+// let array = [];
+// for(let i = 0 ;i < arr.length;i++){
+//     if(arr[i] !== arr[i+1]){array.push(arr[i])}
+//     else{arr[i] = array}
+// }
+// console.log(array)
 
 
-/*==================================== Question No 1 =========================================
+/*==================================== Question No 37 =========================================
 
 ======================================= Answer =====================================*/
 
+// function processing(){let getArray = document.getElementById('input').value;
+//     document.getElementById('input').vlaue = '';
+//     document.getElementById('input').focus();
+//     getArray = getArray.trim();
+//     let array = getArray.split(' ');
+//     let unique = [];
+//     for(let key of array){if(!unique.includes(key)){unique.push(key)}}
+//     let display = document.getElementById('display');
+//     unique = unique.join(' ');
+//     display.value = unique;
+// }
 
+// let arr = ['a','b','b','c','d','d','e'];
+// console.log(arr,typeof arr);
+// let array = [];
+// for(let i = 0 ;i < arr.length;i++){
+//     if(arr[i] !== arr[i+1]){array.push(arr[i])}
+//     else{arr[i] = array}
+// }
+// console.log(array)
 
-/*==================================== Question No 1 =========================================
 
+/*==================================== Question No 38 =========================================
+array method
 ======================================= Answer =====================================*/
+// let fruits = ['apple','banana','mango'];
 
+// console.log(fruits,typeof fruits);
+// fruits.push('orange');
+// fruits.unshift('watermelon');
+// let pop = fruits.pop();
+// console.log(pop);
+// console.log(fruits);
+// let unshif = fruits.shift();
+// console.log(unshif);
+
+// console.log(fruits);
+// let fruits = ['apple','banana','mango'];
+// fruits.splice(0,0,'lemon');
+// console.log(fruits);
+// let copy = fruits.slice(-2);
+// console.log(copy)
+
+
+
+/*==================================== Question No 39 =========================================
+localstorage
+======================================= Answer =====================================*/
+/*local storage is like small notebook. every browser has memory and we can 
+save our small data text not imgage in it , and it does not remove till we dont reomove 
+
+it even page refresh or computer off. we can use localstorage data in same browser.
+*/
+ 
+// function saveName(){
+//     let getName = document.getElementById('input').value;
+//     if(getName == ''){alert('plz enter name');
+//         return
+//     }
+//     localStorage.setItem('username',getName);
+//     document.getElementById('greeting').innerHTML = `Welcome back, ${getName}`;
+//     alert('name saved')
+
+// }
+
+// function removeName(){
+//     localStorage.removeItem('username');
+//     document.getElementById('greeting').innerHTML = 'welcome';
+//     document.getElementById('input').value = '';
+//     alert('nave have been removed')
+// }
+
+
+
+/*==================================== Question No 40 =========================================
+power of 2 checker
+======================================= Answer =====================================*/
+// function checker(){
+//     let getNumber = document.getElementById('input').value;
+//     getNumber = Number(getNumber);
+//     let result = document.getElementById('result');
+//     console.log(getNumber);
+//     if(getNumber <=1){alert('plz enter valid number')}
+//     for(let i = 1; i <getNumber;i++)
+//     {console.log(i)
+//         if(2**i === getNumber){result.innerHTML = `${getNumber} is power of two`
+// }
+// else{result.innerHTML = `${getNumber} is not power of 2`}}
+    
+// }
+
+
+
+/*==================================== Question No 41 =========================================
+form save in localstorage
+======================================= Answer =====================================*/
+
+
+// function saveInLocalStorage(){
+//     let name = document.getElementById('name').value;
+//     localStorage.setItem('name',name);
+//     document.getElementById('name').value = '';
+//     let email = document.getElementById('email').value;
+//     localStorage.setItem('email',email);
+//     document.getElementById('email').value = '';
+//     let phone = document.getElementById('phone').value;
+//     localStorage.setItem('phone',phone);
+//     document.getElementById('phone').value = '';
+//     let gender = document.getElementById('gender').value;
+//     localStorage.setItem('gender',gender);
+//     document.getElementById('gender').value = '';
+//     let dob = document.getElementById('dob').value;
+//     localStorage.setItem('dob',dob);
+//     document.getElementById('dob').value = '';
+//     let address = document.getElementById('address').value;
+//     localStorage.setItem('address',address);
+//     document.getElementById('address').value = '';
+    
+    
+    
+// }
+
+// // show data 
+// function showData(){
+//     let name = localStorage.getItem('name');
+//     let email = localStorage.getItem('email');
+//     let phone = localStorage.getItem('phone');
+//     let dob = localStorage.getItem('dob');
+//     let gender = localStorage.getItem('gender');
+//     let address = localStorage.getItem('address');
+//     let ul = document.getElementById('ul');
+//     if(name && email && phone && dob && gender && address){ul.innerHTML = `<li>${name}</li>
+//     <li>${email}</li>
+//     <li>${phone}</li>
+//     <li>${dob}</li>
+//     <li>${gender}</li>
+//     <li>${address}</li>`}
+//     else{ul.innerHTML = `<li>No data exists</li>`;
+//         ul.style.listStyle = 'none'
+//         ul 
+//     }
+    
+    
+// }
 
+// function finish(){
+//     localStorage.clear()
+//     // localStorage.removeItem('name');
+//     // localStorage.removeItem('email');
+//     // localStorage.removeItem('phone');
+//     // localStorage.removeItem('dob');
+//     // localStorage.removeItem('gender');
+//     // localStorage.removeItem('address')
+//     }
+    
 
-
-
-/*==================================== Question No 1 =========================================
-
+/*==================================== Question No 42 =========================================
+sum of array element squares
 ======================================= Answer =====================================*/
-
+// let num = [2,3,4];
+// console.log(num)
+// let squares = num.map((item)=>{return item*item;});
+// console.log(squares);
+// let sum  = 0;
+// for(let i = 0;i <squares.length;i++){sum = sum + squares[i]}
 
+// console.log(sum)
 
-
-
-/*==================================== Question No 1 =========================================
-
+/*==================================== Question No 43 =========================================
+find min from array 
 ======================================= Answer =====================================*/
+// let array = [3,2,4,6,4];
+// // let min = Math.min(...array);
+// // console.log(min);
+// let min = array[0];
+// for(let i = 0;i < array.length;i++){if( array[i] < min){  min = array[i]}}
+// console.log(min)
 
 
 
 
 
-/*==================================== Question No 1 =========================================
-
+/*==================================== Question No 44 =========================================
+pascal case
 ======================================= Answer =====================================*/
-
-
-
+// let str = 'he is going to lahore';
+// str = str.split(' ')
+// console.log(str);
+// let need = str.map((item)=>{return item.slice(0,1).toUpperCase() + item.slice(1).toLowerCase()});
+// console.log(need)
+// need =  need.join('');
+// console.log(need)
 
 
-/*==================================== Question No 1 =========================================
 
+/*==================================== Question No 45 =========================================
+came Case generator
 ======================================= Answer =====================================*/
+//  let str = 'ZREE LOVE';
+//  str = str.split(' ');
+//  let first = str.slice(0,1);
+//      first = first.join().toLowerCase();
+    
+//  console.log(first);
+//  let other = str.slice(1);
+//  console.log(other)
+//  let need = other.map((item)=>{return item.slice(0,1).toUpperCase() + item.slice(1).toLowerCase()});
+//  console.log(need);
+//  need = need.join('');
+//  console.log(need);
+//  let result = first + need;
+//  console.log(result)
+ 
 
 
 
 
-
-
-/*==================================== Question No 1 =========================================
-
+/*==================================== Question No 46 =========================================
+average or mean finder
 ======================================= Answer =====================================*/
-
+// let arr = [30,2];
+// let add = 0;
+// for(let i = 0; i < arr.length;i++){add = add + arr[i]};
+// console.log(add)
+// let length = arr.length;
+// console.log(length);
+// let mean = add/length;
+// console.log(mean)
 
 
 
 
 
-
-/*==================================== Question No 1 =========================================
-
+/*==================================== Question No 47 =========================================
+text truncator
 ======================================= Answer =====================================*/
-
-
+// let text = 'He is going to school';
+// let length = 5;
+// let first = text.slice(0,1) + '.........';
+// console.log(first);
+// let second = text.slice(0);
+// console.log(second)
 
 
 
 
-/*==================================== Question No 1 =========================================
-
+/*==================================== Question No 48 =========================================
+start number to required last number number generator
 ======================================= Answer =====================================*/
-
-
-
+// let startNumber = 5;
+// let endNumber = 100;
+// let result = '';
+// for(let i = startNumber; i <= endNumber;i++){result += i};
+// console.log(result)
 
 
 
 
-/*==================================== Question No 1 =========================================
-
+/*==================================== Question No 49 =========================================
+.toFixed()
 ======================================= Answer =====================================*/
-
-
-
+// let num = 234.87547673;
+// console.log(num);
+// let fix = num.toFixed(2);
+// console.log(fix)
 
+// console.log(Math.PI)
+// [1.String(num),2 = num.toString(), 3 = `${num}`, 4 = num + " ", 5 = Json.stringify(num)]
+// let num = 23;
+// // num = num.toString();
+// // num = `${num}`;
+// // num = num + '';
+// // num = String(num);
+// num = JSON.stringify(num);
+// console.log(num,typeof num);
 
-/*==================================== Question No 1 =========================================
 
+/*==================================== Question No 50 =========================================
+convert string to number
 ======================================= Answer =====================================*/
+// let str = '322.568';
+// console.log(str,typeof str);
+// // str = Number(str);
+//  str = parseFloat(str)
+// // str = parseInt(str)
+// console.log(str,typeof str);
 
-
-
-
-
-/*==================================== Question No 1 =========================================
-
+/*==================================== Question No 51 =========================================
+charAt()
 ======================================= Answer =====================================*/
-
+// let str = 'love';
+// console.log(str.charAt(str.length-1));
+// let num = 32.643;
+// console.log(num);
+// num = Math.round(num);
+// console.log(num);
 
+// let num = 4;
+// let  a = Math.sqrt(num);
+// console.log(a)
 
+// let num = -352.335;
+// num = Math.abs(num);
+// console.log(num)
+// let num = 32.898;
+// // num = Math.ceil(num);
+// num = Math.floor(num);
+// console.log(num)
 
-
-/*==================================== Question No 1 =========================================
-https://themewagon.com/themes/free-bootstrap-4-html5-web-developer-portfolio-website-template-satner/
-======================================= Answer =====================================*/
