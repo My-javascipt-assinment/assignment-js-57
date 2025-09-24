@@ -484,19 +484,19 @@ itrators of/in
 
 
 /*==================================== Question No 28 =========================================
-counter leter
+word's letter counter
 ======================================= Answer =====================================*/
-// function counting(){
-//     let result = document.getElementById('result');
-//     let word = document.getElementById('word').value;
-//     word = word.toLowerCase();
-//     let letter = document.getElementById('letter').value;
-//     letter = letter.toLowerCase();
-//     word =word.split('');
-//     console.log(word);
-//     let target = word.filter((item)=>{return item === letter});
-//     console.log(target.length)
-// }
+function counting(){
+    let result = document.getElementById('result');
+    let word = document.getElementById('word').value;
+    word = word.toLowerCase();
+    let letter = document.getElementById('letter').value;
+    letter = letter.toLowerCase();
+    word =word.split('');
+    console.log(word);
+    let target = word.filter((item)=>{return item === letter});
+    console.log(target.length)
+}
 
 
 
